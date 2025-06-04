@@ -2,6 +2,8 @@
 
 ### Overview
 
+### Overview
+
 Spots is a newly developed social media app.
 
 **Techniques**
