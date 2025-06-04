@@ -2,11 +2,13 @@
 
 ### Overview
 
+### Overview
+
 Spots is a newly developed social media app.
 
 **Techniques**
 
-I used a couple techniques for this project and have a couple.
+I used a couple techniques for this project and have listed a few below.
 
 1. Grid Layout
 2. Flexbox
