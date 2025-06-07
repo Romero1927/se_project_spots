@@ -14,7 +14,7 @@ I used a couple techniques for this project and have listed a few below.
 2. Flexbox
 3. Media queries
 
-- [Link to the project on Git Hub](https://github.com/Romero1927/Project-Spots)
+- [Link to the project on Git Hub](https://github.com/Romero1927/se_project_spots.git)
 
 **Purpose**
 
