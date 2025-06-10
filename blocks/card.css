@@ -21,13 +21,16 @@
 }
 
 .card__like-btn {
-  background-image: url(../images/heart-icon.svg);
+  background-image: url(../images/heart-icon.svg.png);
   width: 23px;
   height: 20px;
   border: none;
   background-color: transparent;
   opacity: 0.4;
   cursor: pointer;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card__like-btn:hover {
   opacity: 1;
@@ -45,7 +48,7 @@
   }
 
   .card__title {
-    max-width: 95px;
+    max-width: 250px;
     font-size: 16px;
     line-height: 100%;
   }
