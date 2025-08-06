@@ -12,7 +12,7 @@ I used a couple techniques for this project and have listed a few below.
 2. Flexbox
 3. Media queries
 
-- [Link to the project on Git Hub](https://github.com/Romero1927/se_project_spots.git)
+- [Link to the project on Git Hub](https://romero1927.github.io/se_project_spots/index.html)
 - [Link to the video submission](https://drive.google.com/file/d/1saOpQUFEgnfbXEn9oubuOZ6CStDKrjTl/view?usp=sharing)
 
 **Purpose**
