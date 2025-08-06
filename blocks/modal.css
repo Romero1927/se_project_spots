@@ -11,9 +11,9 @@
   padding: 10px;
   visibility: hidden;
 }
-.modal_is-opened {
+/*.modal_is-opened {
   visibility: visible;
-}
+}*/
 
 .modal__content {
   max-width: 730px;
