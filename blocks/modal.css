@@ -23,6 +23,7 @@
   max-width: 730px;
   width: 100%;
   border-radius: 8px;
+  box-sizing: border-box;
   background-color: #fff;
   padding: 32px 50px;
   position: relative;
@@ -35,6 +36,7 @@
   width: 40px;
   height: 40px;
   opacity: 0.4;
+  cursor: pointer;
   border: none;
   background-color: transparent;
   padding: 0;
@@ -70,6 +72,8 @@
   font-family: Poppins, Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size: 20px;
+  box-sizing: border-box;
+  border: 1px solid rgba(33, 33, 33, 0.4);
 }
 
 .modal__input::placeholder {
@@ -86,6 +90,7 @@
   font-family: Poppins, Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size: 16px;
+  cursor: pointer;
 }
 
 .modal__input:hover {
