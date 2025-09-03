@@ -95,6 +95,7 @@
 
 .profile__add-btn:hover {
   background-color: rgba(33, 33, 33, 0.8);
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 627px) {
