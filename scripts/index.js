@@ -19,7 +19,7 @@ const profileAddCaptionInput = profileAddModal.querySelector(
 
 const profileNameEl = document.querySelector(".profile__name");
 const profileDescriptionEl = document.querySelector(".profile__description");
-const addCardForm = document.querySelector(".modal__form");
+const addCardForm = profileAddModal.querySelector(".modal__form");
 
 function openModal(modal) {
   modal.classList.add("modal_is-opened");
